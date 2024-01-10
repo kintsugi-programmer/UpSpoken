@@ -45,26 +45,11 @@ We propose a two-pronged solution:
    - Integrate text-to-speech and speech-to-text functionalities.
 
 ## Screenshots
-<style>
-        .image-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 16px; /* Adjust the gap as needed */
-        }
 
-        .image-grid img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px; /* Optional: add border radius for rounded corners */
-        }
-    </style>
-
-<div class="image-grid">
-    <img src="/images/1.jpg" alt="Screenshot 1">
-    <img src="/images/2.jpg" alt="Screenshot 2">
-    <img src="/images/3.jpg" alt="Screenshot 3">
-    <img src="/images/4.jpg" alt="Screenshot 4">
-</div>
+<img src="/images/1.jpg" alt="Screenshot 1">
+<img src="/images/2.jpg" alt="Screenshot 2">
+<img src="/images/3.jpg" alt="Screenshot 3">
+<img src="/images/4.jpg" alt="Screenshot 4">
 
 **## Future Directions**
 
