@@ -46,10 +46,11 @@ We propose a two-pronged solution:
 
 ## Screenshots
 
-<img src="/images/1.jpg" alt="Screenshot 1">
-<img src="/images/2.jpg" alt="Screenshot 2">
-<img src="/images/3.jpg" alt="Screenshot 3">
-<img src="/images/4.jpg" alt="Screenshot 4">
+
+![Screenshot 1](/images/1.jpeg)
+![Screenshot 2](/images/2.jpeg)
+![Screenshot 3](/images/3.jpeg)
+![Screenshot 4](/images/4.jpeg)
 
 **## Future Directions**
 
