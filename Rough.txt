@@ -1,0 +1,34 @@
+- Problem
+    1. Deaf people know asl(american sign language) at very fast rate and they communicate themselves very fast.But they can't communicate with almost all non-deaf people as they don’t know sign lang
+    2. They just type each word on mobile ,enlarge it and display to non deaf and open another app for translation speech to text
+
+Solution
+- Interface that detect sign language ,simultaneously convert and use speak the text
+- Also detect speech to enlarge text
+
+- Process
+    - Detect handsigns using OpenCV module
+    - Train Model with data, using Google teachable machine
+    - With ML Trained model ,will make an interface to convert hand signs to text
+    - Then text to speech
+
+
+- Product
+    - Watch : Smart Watch is embedded with a camera and is capable of reading the hand gestures to help the communicate through his watch only without using any other device involvement.
+    - App : dedicated for mass population ,accessible ,affordable ,available
+
+- Why us
+    - Google just made live transcribe https://youtu.be/DEaw9IZjuqo,but still they are stuck at just the conversion of text-to-speech
+    - There are glasses for just text-to-speech and very expensive.
+    - There are no tech like this in market
+    - Many researched and solution proposed but not executed,
+    
+    https://medium.com/@mayank.bali/sign-language-detection-for-deaf-using-deep-learning-mediapipe-u-opencv-4c5151e2374c
+    
+    - And using this tech and upgrading it with other applications like IOT,gesture etc.this will make Non-spoken deaf people to Upgraded Upspoken People
+
+
+    - Google just made live transcribe https://youtu.be/DEaw9IZjuqo
+- Only solution proposed but not executed, ,
+
+https://medium.com/@mayank.bali/sign-language-detection-for-deaf-using-deep-learning-mediapipe-u-opencv-4c5151e2374c
